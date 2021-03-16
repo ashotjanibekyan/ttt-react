@@ -1,0 +1,23 @@
+.App {
+    text-align: center;
+}
+
+.App p {
+    font-size: 20px;
+}
+Button {
+    background-color: #292b8d; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+
+Button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
